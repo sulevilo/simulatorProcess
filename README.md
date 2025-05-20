@@ -11,6 +11,11 @@ En este archivo se presenta la simulación de un conjunto de procesos con distin
   - Tiempo de respuesta.
 - Comparación de resultados entre FCFS y SRTF.
 
+## Cómo acceder
+
+Puedes acceder a la simulación en línea en el siguiente enlace:
+[https://simulator-alg-plan-process.streamlit.app/](https://simulator-alg-plan-process.streamlit.app/)
+
 ## Cómo ejecutar localmente
 
 1. Clona este repositorio:
